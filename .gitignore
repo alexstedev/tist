@@ -1,0 +1,5 @@
+**/__pycache__/**
+**/venv/**
+.pre-commit-config.yaml
+tist.egg-info/**
+.env
